@@ -1,5 +1,5 @@
-# GameProgrammingFinal
-Game Programming Final Template
+# GameProgramming2 Final
+ Game Programming 2 Final Template
 
 Game Name:  
 Description Short:  
